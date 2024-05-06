@@ -1,4 +1,4 @@
-//Created By Guru
+//Created By KISH
 //Don't edit these lines
 
 
@@ -49,7 +49,7 @@ app.use(
             printQRInTerminal: false,
             logger: pino({ level: 'fatal' }),
             auth: state,
-            browser: [`GURU BHAY`, "Safari", "3.0"],
+            browser: [`𝐁𝐫𝐚𝐬𝐡𝐨 𝐊𝐢𝐬𝐡`, "Safari", "3.0"],
           });
     
           conn.ev.on('connection.update', async (s) => {
