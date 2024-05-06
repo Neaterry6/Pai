@@ -74,7 +74,7 @@ app.use(
               let Lodushek = `Hi,You are successfully connected!\n\n here is your session file.\n\n Have fun and have a great day ahead! `;
     
               await conn.sendMessage(conn.user.id, {
-                image: { url: 'https://cdn.jsdelivr.net/gh/Guru322/api@Guru/K.jpg' },
+                image: { url: 'https://telegra.ph/file/9ae2ef1de51e0683cb506.jpg' },
                 caption: Lodushek,
               });
              
