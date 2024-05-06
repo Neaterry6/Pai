@@ -4,11 +4,11 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-      "start": "node guru.js",
+      "start": "node kish.js",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],
-    "author": "Guru322",
+    "author": "Brashokish",
     "license": "MIT",
     "dependencies": {
       "@whiskeysockets/baileys": "npm:@whiskeysockets/baileys",
