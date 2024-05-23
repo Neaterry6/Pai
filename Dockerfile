@@ -16,4 +16,4 @@ COPY . .
 
 EXPOSE 3000
 
-CMD ["start"]
+CMD  ["npm", "start"]
